@@ -1,0 +1,8 @@
+{
+  "name": "sportsapp",
+  "app_id": "61220cc6",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
